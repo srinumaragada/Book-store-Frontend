@@ -2,7 +2,7 @@
 ![full-stack-book-store-mern-project](/frontend/src/assets/github-cover.png)
 
 
-## LIve Demo
+
 ## **Live Demo**
 
 [View the Live Demo Here](https://your-live-demo-link.com)
