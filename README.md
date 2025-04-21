@@ -5,7 +5,7 @@
 
 ## **Live Demo**
 
-[View the Live Demo Here](https://your-live-demo-link.com)
+[View the Live Demo Here](https://book-store-frontend-zeta-ashy.vercel.app/))
 
 ## How to run this project:
 
